@@ -1,1 +1,3 @@
-# Place her video files here (.mp4)
+version https://git-lfs.github.com/spec/v1
+oid sha256:59195fa4007675908c577d87c1f91fb97b529b9d8a0e7fcbee0d4d1af22b70df
+size 36
